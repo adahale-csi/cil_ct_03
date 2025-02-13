@@ -1,0 +1,14 @@
+name: cil-env
+channels:
+  - conda-forge
+  - ccpi
+  - astra-toolbox
+  - intel
+dependencies:
+  - python=3.9
+  - cil=24.3.0
+  - astra-toolbox
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - jupyter
